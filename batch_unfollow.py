@@ -1,3 +1,10 @@
+"""
+Facebook Unfollow Tool
+Author: LNMT x KST
+GitHub: https://github.com/languyenmanhtran
+"""
+
+
 import json
 import os
 import time
