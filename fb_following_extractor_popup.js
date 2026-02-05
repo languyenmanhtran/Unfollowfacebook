@@ -1,5 +1,9 @@
+// Facebook Following Extractor Popup
+// Author: LNMT x KST
+// GitHub: https://github.com/languyenmanhtran
 // Code JavaScript - Copy và paste vào F12 Console trên trang Facebook Following
 // Tạo menu popup nhỏ để trích xuất và hiển thị dữ liệu
+
 
 (function() {
     // Kiểm tra xem đã có popup chưa
@@ -1127,4 +1131,5 @@
     console.log('✅ Facebook Following Extractor đã sẵn sàng!');
     console.log('💡 Nhấn nút "Lấy Data" trong popup để bắt đầu.');
 })();
+
 
